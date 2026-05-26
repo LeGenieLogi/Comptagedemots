@@ -12,7 +12,7 @@ public class Main {
     /**
      * Chemin du fichier texte à lire.
      */
-    private static final String chemin_file = "data/Textfile.txt";
+    private static final String chemin_file = "Textfile.txt";
 
     /**
      * Point d'entree du programme.
